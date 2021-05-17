@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "consolesiwa78a75950": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
